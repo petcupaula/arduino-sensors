@@ -25,3 +25,8 @@ Wiring diagram - GY-91 10-DOF Accelerometer + Gyroscope + Magnetometer + Baromet
 Wiring diagram - PIR motion detection sensor:
 
 <img src="arduino_PIR_bb.png" width="800">
+
+Wiring diagram - Ultrasonic distance sensor:
+
+<img src="arduino_ultrasonic_bb.png" width="800">
+
