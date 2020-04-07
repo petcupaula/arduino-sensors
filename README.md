@@ -21,3 +21,7 @@ Wiring diagram - GY-521 Accelerometer + Gyroscope (MPU-6050):
 Wiring diagram - GY-91 10-DOF Accelerometer + Gyroscope + Magnetometer + Barometer (MPU-9250 + BMP280):
 
 <img src="arduino_GY-91_MPU-9250_BMP280_bb.png" width="800">
+
+Wiring diagram - PIR motion detection sensor:
+
+<img src="arduino_PIR_bb.png" width="800">
