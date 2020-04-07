@@ -13,3 +13,11 @@ Wiring diagram - Rotary Encoder:
 Wiring diagram - Limit Switch (Micro Switch):
 
 <img src="arduino_limit_switch_bb.png" width="800">
+
+Wiring diagram - GY-521 Accelerometer + Gyroscope (MPU-6050):
+
+<img src="arduino_GY-521_MPU-6050_bb.png" width="800">
+
+Wiring diagram - GY-91 10-DOF Accelerometer + Gyroscope + Magnetometer + Barometer (MPU-9250 + BMP280):
+
+<img src="arduino_GY-91_MPU-9250_BMP280_bb.png" width="800">
