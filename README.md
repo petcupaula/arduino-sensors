@@ -30,3 +30,7 @@ Wiring diagram - Ultrasonic distance sensor:
 
 <img src="arduino_ultrasonic_bb.png" width="800">
 
+Wiring diagram - Photocell (light sensor):
+
+<img src="arduino_photocell_bb.png" width="800">
+
