@@ -40,5 +40,12 @@ Wiring diagram - DS1302 RTC (Real Time Clock):
 
 Wiring diagram - microSD card module:
 
-<img src="arduino_microSD_card.png" width="800">
+<img src="arduino_microSD_card_bb.png" width="800">
 
+Wiring diagram - PulseSensor (PPG sensor):
+
+<img src="arduino_pulse_sensor_bb.png" width="800">
+
+Wiring diagram - MQ-2 / MQ-3 (gas sensors):
+
+<img src="arduino_MQ_bb.png" width="800">
