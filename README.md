@@ -34,3 +34,6 @@ Wiring diagram - Photocell (light sensor):
 
 <img src="arduino_photocell_bb.png" width="800">
 
+Wiring diagram - DS1302 RTC (Real Time Clock):
+
+<img src="arduino_RTC_DS1302_bb.png" width="800">
