@@ -37,3 +37,8 @@ Wiring diagram - Photocell (light sensor):
 Wiring diagram - DS1302 RTC (Real Time Clock):
 
 <img src="arduino_RTC_DS1302_bb.png" width="800">
+
+Wiring diagram - microSD card module:
+
+<img src="arduino_microSD_card.png" width="800">
+
