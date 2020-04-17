@@ -2,6 +2,10 @@
 
 Scripts to use for various sensors with Arduino
 
+Wiring diagram - Potentiometer:
+
+<img src="arduino_potentiometer_bb.png" width="800">
+
 Wiring diagram - Joystick:
 
 <img src="arduino_joystick_bb.png" width="800">
