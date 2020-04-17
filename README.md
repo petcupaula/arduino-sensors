@@ -49,3 +49,7 @@ Wiring diagram - PulseSensor (PPG sensor):
 Wiring diagram - MQ-2 / MQ-3 (gas sensors):
 
 <img src="arduino_MQ_bb.png" width="800">
+
+Wiring diagram - Touch sensor / Capacitative touch module:
+
+<img src="arduino_capacitive_module_bb.png" width="800">
