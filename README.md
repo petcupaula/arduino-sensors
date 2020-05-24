@@ -57,3 +57,7 @@ Wiring diagram - MQ-2 / MQ-3 (gas sensors):
 Wiring diagram - Touch sensor / Capacitative touch module:
 
 <img src="arduino_capacitive_module_bb.png" width="800">
+
+Wiring diagram - DS18B20 temperature sensor:
+
+<img src="arduino_DS18B20_bb.png" width="800">
