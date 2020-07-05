@@ -61,3 +61,7 @@ Wiring diagram - Touch sensor / Capacitative touch module:
 Wiring diagram - DS18B20 temperature sensor:
 
 <img src="arduino_DS18B20_bb.png" width="800">
+
+Wiring diagram - VL6180 time of flight (ToF) range finder sensor (incl. light sensor):
+
+<img src="arduino_VL6180_bb.png" width="800">
