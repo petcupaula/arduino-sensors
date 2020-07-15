@@ -2,9 +2,13 @@
 
 Scripts to use for various sensors with Arduino
 
-Wiring diagram - Potentiometer:
+Wiring diagram - Potentiometer (rotary potentiometer):
 
 <img src="arduino_potentiometer_bb.png" width="800">
+
+Wiring diagram - Slide potentiometer (linear potentiometer):
+
+<img src="arduino_linear_pot_bb.png" width="800">
 
 Wiring diagram - Joystick:
 
