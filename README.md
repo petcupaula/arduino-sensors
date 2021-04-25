@@ -69,3 +69,7 @@ Wiring diagram - DS18B20 temperature sensor:
 Wiring diagram - VL6180 time of flight (ToF) range finder sensor (incl. light sensor):
 
 <img src="arduino_VL6180_bb.png" width="800">
+
+Wiring diagram - CCS811 air quality sensor:
+
+<img src="arduino_CCS811_bb.png" width="800">
